@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1240769",
+      "name": "录音",
+      "font_class": "luyin",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7174777",
+      "name": "录音",
+      "font_class": "luyin1",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "12320968",
+      "name": "录音",
+      "font_class": "luyin2",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
